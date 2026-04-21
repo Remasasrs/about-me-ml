@@ -1,1 +1,2 @@
-
+Lab Summary
+In this lab, a KNN model was used to classify data after scaling features with StandardScaler. The model was trained and evaluated, then improved by testing different values of k and selecting the best one using the error rate.
