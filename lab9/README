@@ -1,1 +1,5 @@
+In this lab, Decision Tree and Random Forest models were implemented to predict whether a loan will not be fully paid.
 
+After evaluating both models using the classification report and confusion matrix, the Random Forest model performed better overall. This is because Random Forest reduces overfitting by combining multiple decision trees, leading to more stable and accurate predictions compared to a single Decision Tree.
+
+Therefore, Random Forest is considered the more reliable model for this dataset.
