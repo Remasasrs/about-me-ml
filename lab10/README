@@ -1,1 +1,1 @@
-
+This lab applied Support Vector Machines to classify Iris flower species. The dataset was explored visually, split into training and testing sets, and evaluated using confusion matrix and classification report. GridSearchCV was used for parameter tuning, but the original model already achieved strong performance.
