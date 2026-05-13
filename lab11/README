@@ -1,0 +1,5 @@
+In this project, K-Means clustering was used to segment credit card customers based on their spending and payment behavior. The dataset was cleaned by removing the customer ID column and filling missing values using mean imputation. After that, the features were scaled using StandardScaler because K-Means is sensitive to feature ranges.
+
+The elbow method and silhouette score were used to help choose the number of clusters. The final selected value was K = 4 because it provided a reasonable balance between model performance and meaningful customer segmentation. The final clusters show different types of customers, such as low-activity customers, high-value customers, cash-advance-heavy customers, and regular users.
+
+These customer segments can help the company design better marketing strategies, improve customer targeting, and understand customer behavior more clearly.
